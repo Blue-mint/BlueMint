@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Blue-mint/BlueMint/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://i.loli.net/2019/03/14/5c89ab8e50295.jpg" alt="开车.jpg" title="开车.jpg" />
 
 ### Markdown
 
